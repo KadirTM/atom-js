@@ -1,21 +1,23 @@
-MIT License
+Atom.js's License ©
 
-Copyright (c) 2022 KadirTM
+Copyright KadirTM © 2022
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Atom.js, Node developed by KadirTM. It is a Javascript based Npm module. 
+Atom.js is open source free but not modifying open source codes and publishing it as your own product will cause copyright issues. 
+It is free to develop and publish a different version of Atom.js and does not infringe any copyright.
+Copyright Applies to All Versions of Atom.js.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Behaviors That Do Not Affect Copyright:
+Not sharing Atom.js open source codes without editing. ✓
+Adding new functions to Atom.js to share or share as a helper module with a different name. ✓
+Making a module similar to Atom.js to Improve Yourself. ✓
+Using Atom.js in your project. ✓
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Movements Affecting Copyright:
+Making Atom.js look like your own module. ❌
+Generating malware using Atom.js. ❌
+Selling an item to Atom.js for money. ❌
+To publish the open source code of Atom.js without modification. ❌
+Using names that have a connection to Atom.js or other Atom.js. ❌
+
+As long as You Don't Do These Things, you can use Atom.js as You Like.
